@@ -1,0 +1,25 @@
+{
+  "name": "miss1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^3.13.0"
+  },
+  "devDependencies": {
+    "node-sass": "^3.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demsea/miss1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demsea/miss1/issues"
+  },
+  "homepage": "https://github.com/demsea/miss1#readme"
+}
