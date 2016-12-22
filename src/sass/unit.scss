@@ -1,0 +1,24 @@
+.unit {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+
+    &__icon {
+      text-align: center;
+    }
+    &__icon-pic {
+      color: $icon-color;
+    }
+}
+
+@media (min-width: 768px) {
+ .unit {
+   flex: 0 0 47%;
+ }
+}
+
+@media (min-width: 1024px) {
+ .unit {
+   flex: 0 0 31%;
+ }
+}
